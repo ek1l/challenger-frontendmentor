@@ -248,6 +248,7 @@
 }
 
 .fimdosite ul li a {
+  color: black;
   display: flex;
   padding: 30px;
 }
